@@ -1,7 +1,7 @@
 title: Cheung Paul # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Description
+  Description:
   <br>Une synthèse de mon stage<br>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
